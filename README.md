@@ -1,5 +1,7 @@
 # Interactive Literature Review: Education Policy Research
 
+**[→ Explore the wiki](https://alysha9110.github.io/Literature-Review-Sample-Wiki/)** | **💡 Pro tip**: For best performance, click the red download icon (⭕) in the top-right corner to download and open locally—it's lightning fast!
+
 A hand-built knowledge management system that transforms static research into a dynamic, explorable resource.
 
 ## The Challenge
@@ -8,7 +10,7 @@ Traditional research reports, however excellent, often become digital paperweigh
 
 ## My Solution
 
-I took Koi Tū's comprehensive [education policy report](https://informedfutures.org/wp-content/uploads/2024/11/Koi-Tu-Searching-for-Utopia-Education-Report.pdf) and rebuilt it as an interactive wiki with:
+I took Koi Tū's comprehensive education policy report and rebuilt it as an interactive wiki with:
 
 - **Visual navigation**: Revolving slideshow of key charts and findings
 - **Intuitive structure**: Clickable subject index that actually helps you find what you need
@@ -25,5 +27,3 @@ I took Koi Tū's comprehensive [education policy report](https://informedfutures
 Good research deserves to be used, not just published. This wiki shows how thoughtful presentation can make valuable insights accessible to busy decision-makers who need information quickly.
 
 It's the kind of knowledge management system I'd want to use myself—and that's always the best test.
-
-[Explore the wiki →](https://alysha9110.github.io/Literature-Review-Sample-Wiki/)
