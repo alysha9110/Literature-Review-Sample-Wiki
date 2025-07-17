@@ -1,7 +1,7 @@
 # Interactive Literature Review: Education Policy Research
 A hand-built knowledge management system that transforms static research into a dynamic, explorable resource.
 
-| **💡 Pro tip**: For best performance, click the red download icon (⭕) in the top-right corner to download and open locally—it's lightning fast!
+| **💡 Pro tip**: For best performance, click the checkmark download icon (✔️) in the top-right corner to download and open locally—it's lightning fast!
 
  **[→ Explore the wiki](https://alysha9110.github.io/Literature-Review-Sample-Wiki/)** 
 
